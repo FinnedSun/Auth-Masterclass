@@ -99,7 +99,7 @@ export const LoginForm = () => {
           <FormError message={error} />
           <FromSuccess message={success} />
           <Button type="submit" className="w-full" disabled={isPanding}>
-            Login
+            Masuk
           </Button>
         </form>
       </Form>
